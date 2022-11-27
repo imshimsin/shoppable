@@ -1,0 +1,60 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+/*.card:hover{
+     transform: scale(1.05);
+     }*/
+ .navbar{
+         	background-color:  #feeae1;
+         	box-shadow: 10px 0;
+        }
+        .navbar-nav li{
+	        margin-right: 20px;
+        }
+        .navbar-nav a{
+	        text-decoration: none;
+	        color: #cb3d51 !important;
+            font-weight: normal;        
+            font-family: cursive;
+        }  
+        .navbar-nav{
+         	padding-left: 30px;
+        }
+        @media(max-width: 600px){
+            .carousel-item img{
+                height: 450px;
+                width: 100%;
+                position: relative;
+            }
+        }
+        .btnc{
+	        font-family: cursive;
+	        margin-right: 20px;
+	        margin-left: 20px;
+	        background-color: #feeae1 !important;
+	        outline-color: #cb3d51 !important ;
+        }
+        .button{
+       width: 80px;
+    height: 36px;
+    margin-left: -25px;
+    background-color: #cb7783 ;
+}
+        .footback{
+	        background-color: #feeae1 ;
+        }
+        .row1 h3{
+	        color:  #cb3d51 ;
+	        font-family: cursive;
+        }
+        .row1 p{
+	        font-size: 20px;
+        }
+        .row1 a{
+	        color: #cb3d51;
+        } 
+       .con1{
+	        background-color: #cb7783 ;
+        }

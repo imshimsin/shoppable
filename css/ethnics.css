@@ -1,0 +1,88 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.navbar{
+         	background-color:  #feeae1;
+         	box-shadow: 10px 0;
+        }
+        .navbar-nav li{
+	        margin-right: 20px;
+        }
+        .navbar-nav a{
+	        text-decoration: none;
+	        color: #cb3d51 !important;
+            font-weight: normal;        
+            font-family: cursive;
+        }  
+        .navbar-nav{
+         	padding-left: 30px;
+        }
+        .button:hover{
+            background-color: aliceblue;
+        }
+        .btnc{
+	        font-family: cursive;
+	        margin-right: 20px;
+	        margin-left: 20px;
+	        background-color: #feeae1 !important;
+	        outline-color: #cb3d51 !important ;
+        }
+        .ban{
+        	background-image: url(../image/dreasb.jpg);
+        	width: 100%;
+        	height: 450px;
+        }
+        @media(max-width: 600px){
+        .ban{
+            background-image: url(../image/dreasb.jpg);
+            background-position:center ;
+        	width: 100%;
+        	height: 450px;
+        }
+        }
+        .button{
+    width: 80px;
+    height: 36px;
+    margin-left: -25px;
+    background-color: #cb7783 ;
+}
+        .mar{
+        	margin-top: 107px;
+        }
+        .line{
+	        border: 1px solid #ccc;
+            width: 80%;
+            margin: 2%;
+        }
+
+        .footback{
+	        background-color: #feeae1 ;
+        }
+        .row1 h3{
+	        color:  #cb3d51 ;
+	        font-family: cursive;
+        }
+        .row1 p{
+	        font-size: 20px;
+        }
+        .row1 a{
+	        color: #cb3d51;
+        } 
+       .con1{
+	        background-color: #cb7783 ;
+        }
+/*        .card{
+    border-radius: 4px;
+    background: #fff;
+    box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
+      transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+  padding: 14px 80px 18px 36px;
+  cursor: pointer;
+}
+*/
+/*.card:hover{
+     transform: scale(2.05);
+  box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+*/

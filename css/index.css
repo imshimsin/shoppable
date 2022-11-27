@@ -1,0 +1,87 @@
+*{
+    margin: 0px;
+	padding: 0px;
+}
+.navbar{
+	background-color: #feeae1;
+	box-shadow: 10px 0;
+}
+.icon{
+	color:  #cb3d51;
+    font-size: 20px;
+    margin-left: -35px;
+}
+ul li a:hover{
+	background-color: grey;
+	transition-timing-function: 10sec;
+
+}
+.navbar-nav li{
+	margin-right: 20px;
+}
+.navbar-nav a{
+	text-decoration: none;
+	color: #cb3d51 !important;
+    font-weight: normal;
+    font-family: cursive;
+}
+.navbar-nav{
+	padding-left: 30px;
+}
+@media(max-width: 600px){
+	.carousel-item img{
+		width: 100%;
+		height: 400px;
+	}
+}
+.btnc{
+	font-family: cursive;
+	margin-right: 20px;
+	margin-left: 20px;
+	background-color: #feeae1 !important;
+	outline-color: #cb3d51 !important ;
+}
+.button{
+	width: 80px;
+    height: 36px;
+    margin-left: -25px;
+    background-color: #cb7783 ;
+}
+.line{
+	border: 1px solid #ccc;
+    width: 80%;
+    margin: 2%;
+}
+.why{
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.why i{
+	font-size: 70px;
+	color: #cb3d51 ;
+}
+.why h4{
+	margin-top: 25px ;
+	font-size: 25px;
+	font-family: cursive;
+}
+.con{
+	background-color: #dedede;
+	margin-top: 20px;
+}
+.footback{
+	background-color: #feeae1 ;
+}
+.row1 h3{
+	color:  #cb3d51 ;
+	font-family: cursive;
+}
+.row1 p{
+	font-size: 20px;
+}
+.row1 a{
+	color: #cb3d51;
+} 
+.con1{
+	background-color: #cb7783 ;
+}
